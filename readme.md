@@ -8,7 +8,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />  
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" style="padding-right:10px;" />  
+<img align="left" alt="Python" width="26px" src="[https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)" style="padding-right:10px;" />  
 
 
 <br />
