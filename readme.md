@@ -2,7 +2,7 @@
 
 ## I'm a Student, Unity, C# and Python developer!!
 
-- ⚡ I love to play guitar, cycle and write code :)
+- ⚡ I play guitar, cycle, do some hiking, play a lot of videogames and write code :)
 
 ### Languages and Tools:
 
